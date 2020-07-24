@@ -1,6 +1,5 @@
-# Après copie du repo
-Exécuter un `npm install`
-
+# Installer Brunch avec ce squelette
+`brunch new nom_du_projet --skeleton Dynzels/skeleton-brunch-dynzels`
 
 # Brunch app
 
