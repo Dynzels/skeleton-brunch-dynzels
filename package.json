@@ -1,0 +1,22 @@
+{
+  "name": "brunch-app",
+  "description": "Brunch.io application",
+  "private": true,
+  "author": "Brunch",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "browser-sync-brunch": "0.0.9",
+    "brunch": "^3",
+    "clean-css-brunch": "^3",
+    "sass-brunch": "^3.0.0",
+    "terser-brunch": "^4"
+  }
+}
